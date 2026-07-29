@@ -1,8 +1,3 @@
-#include <vector>
-#include <bits/stdc++.h>
-#define ll long long
-using namespace std;
-
 // Two-pointer approach | Time: O(n) | Space: O(1) | Requires sorted input
 
 bool hasPairWithSum(vector<int>& arr, int target) {
